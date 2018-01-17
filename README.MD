@@ -1,6 +1,6 @@
-# ng4 Social Login
+# ngx Social Login
 
-This is the refrenced library from [angular4-social-login](https://abacritt.github.io/angular4-social-login/).
+This is the refrenced library from [angular4-social-login](https://abacritt.github.io/angular4-social-login/) and forked from [ng4-social-login](https://github.com/sarfarazansari/ng4-social-login/)
 
 Social login and authentication module for Angular 4. 
 Supports authentication with **Google**, **Linkedin** and **Facebook**.
